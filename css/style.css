@@ -313,7 +313,7 @@ a {
     font-size: 16px;
     color: #252525;
     float: right;
-    background-image: url(/static/images/header-class.png);
+    background-image: url(../images/header-class.png);
     background-repeat: no-repeat;
     padding-left: 25px
 }
@@ -355,7 +355,7 @@ a {
     height: 86px;
     bottom: 0;
     left: 0;
-    background-image: url(/static/images/banner-bg.png)
+    background-image: url(../images/banner-bg.png)
 }
 
 .index-banner-bottom .title {
@@ -453,7 +453,7 @@ a {
 .index-title-more {
     float: right;
     padding-right: 18px;
-    background-image: url(/static/images/index-title-more.png);
+    background-image: url(../images/index-title-more.png);
     background-repeat: no-repeat;
     background-position: 38px 15px;
     font-size: 14px;
@@ -549,13 +549,13 @@ a {
 .index-original-list li .info .star span {
     width: 12px;
     height: 11px;
-    background-image: url(/static/images/index-star.png);
+    background-image: url(../images/index-star.png);
     background-repeat: no-repeat;
     display: inline-block
 }
 
 .index-original-list li .info .star span.active {
-    background-image: url(/static/images/index-star-active.png);
+    background-image: url(../images/index-star-active.png);
     background-repeat: no-repeat
 }
 
@@ -675,7 +675,7 @@ a {
 .index-rank-title .more {
     float: right;
     padding-right: 18px;
-    background-image: url(/static/images/index-title-more.png);
+    background-image: url(../images/index-title-more.png);
     background-repeat: no-repeat;
     background-position: 38px 7px;
     font-size: 14px;
@@ -711,7 +711,7 @@ a {
 }
 
 .index-rank-list li .sign span {
-    background-image: url(/static/images/index-rank-0.png);
+    background-image: url(../images/index-rank-0.png);
     background-repeat: no-repeat;
     height: 22px;
     width: 22px;
@@ -726,19 +726,19 @@ a {
 }
 
 .index-rank-list li .sign span.top-1 {
-    background-image: url(/static/images/index-rank-1.png);
+    background-image: url(../images/index-rank-1.png);
     background-repeat: no-repeat;
     color: #fff
 }
 
 .index-rank-list li .sign span.top-2 {
-    background-image: url(/static/images/index-rank-2.png);
+    background-image: url(../images/index-rank-2.png);
     background-repeat: no-repeat;
     color: #fff
 }
 
 .index-rank-list li .sign span.top-3 {
-    background-image: url(/static/images/index-rank-3.png);
+    background-image: url(../images/index-rank-3.png);
     background-repeat: no-repeat;
     color: #fff
 }
@@ -904,13 +904,13 @@ a {
 .index-manga-detail .detail .star span {
     width: 12px;
     height: 11px;
-    background-image: url(/static/images/index-star.png);
+    background-image: url(../images/index-star.png);
     background-repeat: no-repeat;
     display: inline-block
 }
 
 .index-manga-detail .detail .star span.active {
-    background-image: url(/static/images/index-star-active.png);
+    background-image: url(../images/index-star-active.png);
     background-repeat: no-repeat
 }
 
@@ -1142,20 +1142,20 @@ a {
     font-size: 13px;
     color: #d7d7d7;
     padding-left: 20px;
-    background-image: url(/static/images/view-logo-3.png);
+    background-image: url(../images/view-logo-3.png);
     background-repeat: no-repeat;
     background-position: 0 0
 }
 
 .view-comment-main .list li .info .bottom .right .zan.active {
-    background-image: url(/static/images/view-logo-3-a.png)
+    background-image: url(../images/view-logo-3-a.png)
 }
 
 .view-comment-main .list li .info .bottom .right .comment {
     font-size: 13px;
     color: #d7d7d7;
     padding-left: 20px;
-    background-image: url(/static/images/view-logo-4.png);
+    background-image: url(../images/view-logo-4.png);
     background-repeat: no-repeat;
     background-position: 0 1px;
     margin-left: 30px
@@ -1203,7 +1203,7 @@ a {
 }
 
 .view-comment-main .list li .info .comment-item .logo-1 {
-    background-image: url(/static/images/view-logo-2.png);
+    background-image: url(../images/view-logo-2.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     padding-left: 20px;
@@ -1211,7 +1211,7 @@ a {
 }
 
 .view-comment-main .list li .info .comment-item .logo-2 {
-    background-image: url(/static/images/view-logo-1.png);
+    background-image: url(../images/view-logo-1.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     padding-left: 20px;
@@ -1312,7 +1312,7 @@ a {
 }
 
 body.white .view-comment-main .list li .info .bottom .right .zan.active {
-    background-image: url(/static/images/view-logo-3-w-a.png);
+    background-image: url(../images/view-logo-3-w-a.png);
     color: #fd113a
 }
 
@@ -1321,7 +1321,7 @@ body.white .view-comment-main .list li .info .comment-item span {
 }
 
 body.white .view-comment-main .list li .info .comment-item .logo-1 {
-    background-image: url(/static/images/view-logo-2.png);
+    background-image: url(../images/view-logo-2.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     padding-left: 20px;
@@ -1329,7 +1329,7 @@ body.white .view-comment-main .list li .info .comment-item .logo-1 {
 }
 
 body.white .view-comment-main .list li .info .comment-item .logo-2 {
-    background-image: url(/static/images/view-logo-1.png);
+    background-image: url(../images/view-logo-1.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     padding-left: 20px;
@@ -1360,7 +1360,7 @@ body.white .view-comment-main .list li .info .bottom .right .zan {
     font-size: 13px;
     color: #999;
     padding-left: 20px;
-    background-image: url(/static/images/view-logo-3.png);
+    background-image: url(../images/view-logo-3.png);
     background-repeat: no-repeat;
     background-position: 0 0
 }
@@ -1369,7 +1369,7 @@ body.white .view-comment-main .list li .info .bottom .right .comment {
     font-size: 13px;
     color: #999;
     padding-left: 20px;
-    background-image: url(/static/images/view-logo-4.png);
+    background-image: url(../images/view-logo-4.png);
     background-repeat: no-repeat;
     background-position: 0 1px;
     margin-left: 30px
@@ -1536,14 +1536,14 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
     font-size: 14px;
     color: #999;
     padding-left: 26px;
-    background-image: url(/static/images/detail-order.png);
+    background-image: url(../images/detail-order.png);
     background-repeat: no-repeat;
     float: left;
     line-height: 21px
 }
 
 .view-comment .detail-list-title .order.inverted {
-    background-image: url(/static/images/detail-order-inverted.png)
+    background-image: url(../images/detail-order-inverted.png)
 }
 
 .view-comment .left-bar {
@@ -1634,7 +1634,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .view-comment .view-win-list .view-lock {
-    background-image: url(/static/images/view-lock.png);
+    background-image: url(../images/view-lock.png);
     background-repeat: no-repeat;
     float: right;
     display: inline-block;
@@ -1647,7 +1647,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .view-comment .view-win-list .view-time {
-    background-image: url(/static/images/view-time.png);
+    background-image: url(../images/view-time.png);
     background-repeat: no-repeat;
     float: right;
     display: inline-block;
@@ -1660,7 +1660,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .view-comment .view-win-list .view-free {
-    background-image: url(/static/images/view-free.png);
+    background-image: url(../images/view-free.png);
     background-repeat: no-repeat;
     float: right;
     display: inline-block;
@@ -1673,7 +1673,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .view-comment .view-win-list .view-free-yellow {
-    background-image: url(/static/images/view-free-yellow.png);
+    background-image: url(../images/view-free-yellow.png);
     background-repeat: no-repeat;
     float: right;
     display: inline-block;
@@ -1686,7 +1686,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .view-comment .view-win-list .view-discount {
-    background-image: url(/static/images/view-discount.png);
+    background-image: url(../images/view-discount.png);
     background-repeat: no-repeat;
     float: right;
     display: inline-block;
@@ -1699,7 +1699,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .view-comment .view-win-list .view-discount-red {
-    background-image: url(/static/images/view-discount-red.png);
+    background-image: url(../images/view-discount-red.png);
     background-repeat: no-repeat;
     float: right;
     display: inline-block;
@@ -1717,7 +1717,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
     padding-right: 25px;
     font-size: 13px;
     margin: 20px auto;
-    background-image: url(/static/images/detail-more.png);
+    background-image: url(../images/detail-more.png);
     background-repeat: no-repeat;
     background-position: 85px 17px;
     color: #ff2853;
@@ -1729,7 +1729,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
     font-size: 13px;
     margin: 20px auto;
     color: #ff2853;
-    background-image: url(/static/images/detail-less.png);
+    background-image: url(../images/detail-less.png);
     background-repeat: no-repeat;
     background-position: 85px 17px
 }
@@ -1814,7 +1814,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 .view-comment .view-comment-sub .sub-bar .title .more {
     float: right;
     padding-right: 18px;
-    background-image: url(/static/images/index-title-more.png);
+    background-image: url(../images/index-title-more.png);
     background-repeat: no-repeat;
     background-position: 38px 15px;
     font-size: 14px;
@@ -2508,13 +2508,13 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .index-rank-bar .right-list li .sign span.top-1 {
-    background-image: url(/static/images/index-rank-1.png);
+    background-image: url(../images/index-rank-1.png);
     background-repeat: no-repeat;
     color: #fff
 }
 
 .index-rank-bar .right-list li .sign span.top-2 {
-    background-image: url(/static/images/index-rank-2.png);
+    background-image: url(../images/index-rank-2.png);
     background-repeat: no-repeat;
     color: #fff
 }
