@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 html {
     font-family: sans-serif;
     line-height: 1.15;
@@ -2189,7 +2189,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .view-comment .view-detail-list li .info .title span.new {
-    background-image: url(/static/images/list_new_logo_2.png);
+    background-image: url(../images/list_new_logo_2.png);
     background-repeat: no-repeat;
     display: inline-block;
     height: 17px;
@@ -2222,7 +2222,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .view-comment .view-detail-list li .detail-lock {
-    background-image: url(/static/images/view-lock.png);
+    background-image: url(../images/view-lock.png);
     background-repeat: no-repeat;
     display: inline-block;
     height: 19px;
@@ -2493,7 +2493,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .index-rank-bar .right-list li .sign span {
-    background-image: url(/static/images/index-rank-0.png);
+    background-image: url(../images/index-rank-0.png);
     background-repeat: no-repeat;
     height: 22px;
     width: 22px;
@@ -2520,7 +2520,7 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .index-rank-bar .right-list li .sign span.top-3 {
-    background-image: url(/static/images/index-rank-3.png);
+    background-image: url(../images/index-rank-3.png);
     background-repeat: no-repeat;
     color: #fff
 }
@@ -2625,23 +2625,23 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .index-right-float li a.index-right-float-top {
-    background-image: url(/static/images/index-top.png);
+    background-image: url(../images/index-top.png);
     background-repeat: no-repeat;
     background-position: center
 }
 
 .index-right-float li a.index-right-float-top:hover {
-    background-image: url(/static/images/index-top-a.png)
+    background-image: url(../images/index-top-a.png)
 }
 
 .index-right-float li a.index-side-code {
-    background-image: url(/static/images/index-side-code.png);
+    background-image: url(../images/index-side-code.png);
     background-repeat: no-repeat;
     background-position: center
 }
 
 .index-right-float li a.index-side-code:hover {
-    background-image: url(/static/images/index-side-code-a.png)
+    background-image: url(../images/index-side-code-a.png)
 }
 
 .index-right-float li a.index-side-code .index-float-code {
@@ -2957,70 +2957,70 @@ body.white .view-comment-main .bottom-page .block.active,body.white .view-commen
 }
 
 .sp-date {
-    background-image: url(/static/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: -278px -88px;
     width: 13px;
     height: 13px
 }
 
 .sp-icon-vip-black {
-    background-image: url(/static/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: -249px -88px;
     width: 24px;
     height: 22px
 }
 
 .sp-icon-vip {
-    background-image: url(/static/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: -249px -49px;
     width: 36px;
     height: 34px
 }
 
 .sp-m_book_new {
-    background-image: url(/static/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: -249px 0;
     width: 44px;
     height: 44px
 }
 
 .sp-new_btn_1 {
-    background-image: url(/static/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: 0 0;
     width: 244px;
     height: 62px
 }
 
 .sp-new_btn_2 {
-    background-image: url(/static/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: 0 -67px;
     width: 244px;
     height: 62px
 }
 
 .sp-searchResult_btn_read {
-    background-image: url(/static/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: 0 -134px;
     width: 120px;
     height: 36px
 }
 
 .sp-tip {
-    background-image: url(/static/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: -249px -115px;
     width: 20px;
     height: 20px
 }
 
 .sp-vip-banner-line-left {
-    background-image: url(/static/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: -125px -134px;
     width: 97px;
     height: 29px
 }
 
 .sp-vip-banner-line-right {
-    background-image: url(/static/images/sprite.png);
+    background-image: url(../images/sprite.png);
     background-position: 0 -175px;
     width: 97px;
     height: 29px
@@ -3473,7 +3473,7 @@ hr {
 .mh-star {
     display: block;
     float: right;
-    background-image: url(/static/images/star.png);
+    background-image: url(../images/star.png);
     width: 68px;
     height: 12px;
     background-position: 0 0;
@@ -3506,7 +3506,7 @@ hr {
 
 .mh-star-line {
     display: inline-block;
-    background-image: url(/static/images/star.png);
+    background-image: url(../images/star.png);
     width: 68px;
     height: 12px;
     background-position: 0 0;
@@ -4278,7 +4278,7 @@ hr {
 
 .down-app-page .banner-top {
     height: 700px;
-    background: #fce04f url(/static/images/down-bg-icon.png) repeat center -5px
+    background: #fce04f url(../images/down-bg-icon.png) repeat center -5px
 }
 
 .down-app-page .banner-top .wrap {
@@ -4374,7 +4374,7 @@ hr {
     margin-left: -117px;
     width: 230px;
     height: 459px;
-    background-image: url(/static/images/down-ios.png);
+    background-image: url(../images/down-ios.png);
     z-index: 1
 }
 
@@ -4972,7 +4972,7 @@ body {
     display: inline-block;
     height: 18px;
     width: 18px;
-    background-image: url(/static/images/header-class.png);
+    background-image: url(../images/header-class.png);
     background-repeat: no-repeat;
     vertical-align: top;
     position: relative;
@@ -5012,7 +5012,7 @@ body {
     padding-left: 44px;
     border-radius: 0 19px 19px 0;
     background-color: #fd113a;
-    background-image: url(/static/images/header-search.png);
+    background-image: url(../images/header-search.png);
     background-repeat: no-repeat;
     background-position: 20px 10px
 }
@@ -5058,7 +5058,7 @@ body {
     display: inline-block;
     height: 18px;
     width: 18px;
-    background-image: url(/static/images/header-vip.png);
+    background-image: url(../images/header-vip.png);
     background-repeat: no-repeat
 }
 
@@ -5341,7 +5341,7 @@ body {
     width: 32px;
     height: 12px;
     margin: 0 auto;
-    background-image: url(/static/images/arrow-up.png);
+    background-image: url(../images/arrow-up.png);
     z-index: 1;
     position: relative;
     top: 1px
@@ -5500,7 +5500,7 @@ body {
     width: 32px;
     height: 12px;
     margin: 0 auto;
-    background-image: url(/static/images/arrow-up.png);
+    background-image: url(../images/arrow-up.png);
     z-index: 1;
     position: relative;
     top: 1px;
@@ -5882,7 +5882,7 @@ body {
     display: block;
     height: 110px;
     width: 100%;
-    background-image: url(/static/images/dateProgressBar-line.png);
+    background-image: url(../images/dateProgressBar-line.png);
     position: absolute;
     bottom: 6px;
     left: 0;
@@ -6037,7 +6037,7 @@ body {
 
 .user-sidebar {
     width: 241px;
-    background: #fff url(/static/images/user-sidebar-top.png) no-repeat top center;
+    background: #fff url(../images/user-sidebar-top.png) no-repeat top center;
     box-shadow: 2px 2px 6px silver
 }
 
@@ -6228,14 +6228,14 @@ body {
     height: 21px;
     width: 21px;
     display: inline-block;
-    background-image: url(/static/images/detail-star.png);
+    background-image: url(../images/detail-star.png);
     background-repeat: no-repeat;
     vertical-align: top;
     margin: 0 2px
 }
 
 .banner_detail_form .info .title .right .active {
-    background-image: url(/static/images/detail-star-active.png)
+    background-image: url(../images/detail-star-active.png)
 }
 
 .banner_detail_form .info .subtitle {
@@ -6341,7 +6341,7 @@ body {
     text-align: center;
     display: inline-block;
     padding-left: 20px;
-    background-image: url(/static/images/detail-phone.png);
+    background-image: url(../images/detail-phone.png);
     background-repeat: no-repeat;
     background-position: 9px 7px;
     position: relative
@@ -6383,7 +6383,7 @@ body {
     font-size: 16px;
     color: #666;
     padding-left: 20px;
-    background-image: url(/static/images/detail-share.png);
+    background-image: url(../images/detail-share.png);
     background-repeat: no-repeat;
     background-position: 0 2px;margin-left:10px;
 }
@@ -6393,7 +6393,7 @@ body {
     font-size: 16px;
     color: #666;
     padding-left: 23px;
-    background-image: url(/static/images/rss_logo.png);
+    background-image: url(../images/rss_logo.png);
     background-repeat: no-repeat;
     background-position: 0 2px;
     margin-right: 20px
@@ -6436,7 +6436,7 @@ body {
     height: 86px;
     bottom: 0;
     left: 0;
-    background-image: url(/static/images/banner-bg.png)
+    background-image: url(../images/banner-bg.png)
 }
 
 .banner_puzzle .puzzle li .bottom .title {
@@ -6544,7 +6544,7 @@ body {
     height: 86px;
     bottom: 0;
     left: 0;
-    background-image: url(/static/images/banner-bg.png)
+    background-image: url(../images/banner-bg.png)
 }
 
 .banner_puzzle_bak .swiper-slide .puzzle li .bottom .title {
@@ -6597,7 +6597,7 @@ body {
     height: 195.2px;
     padding-top: 34px;
     text-align: center;
-    background: url(/static/images/banner_toplist_bg.png);
+    background: url(../images/banner_toplist_bg.png);
     background-position: center center;
     background-size: 100% 100%
 }
@@ -6605,7 +6605,7 @@ body {
 .banner_waterwheel {
     position: relative;
     height: 410px;
-    background-image: url(/static/images/banner_waterwheel_bg.png);
+    background-image: url(../images/banner_waterwheel_bg.png);
     background-size: cover
 }
 
@@ -6745,7 +6745,7 @@ body {
 }
 
 .account-box .qr-wrap {
-    background-image: url(/static/images/account-bg.png);
+    background-image: url(../images/account-bg.png);
     background-size: 100% 100%;
     width: 198px;
     height: 385px;
@@ -8537,7 +8537,7 @@ body {
 
 .vip-banner-big .aside-box .vip-desc {
     padding-top: 14px;
-    background-image: url(/static/images/vip-aside-line.png);
+    background-image: url(../images/vip-aside-line.png);
     background-position: top center;
     background-repeat: no-repeat
 }
@@ -8793,7 +8793,7 @@ body {
     position: absolute;
     top: -80px;
     right: 2px;
-    background-image: url(/static/images/icon-chart-arrow.png);
+    background-image: url(../images/icon-chart-arrow.png);
     width: 11px;
     height: 12px
 }
@@ -9141,7 +9141,7 @@ body {
     width: 100%;
     height: 30px;
     margin-top: -30px;
-    background-image: url(/static/images/vip-rand-bg.png);
+    background-image: url(../images/vip-rand-bg.png);
     background-size: 100% 100%
 }
 
@@ -9871,5 +9871,5 @@ body {
 .view-comment-main h2{ color:#252525; padding-left:10px;}
 #formpl2 .clearfix{ text-align:right;}
 .huifu{color: #999; margin-left:10px;}
-.v_iWatched {    width: 40px;    height: 18px;    overflow: hidden;    position: absolute;    top: -8px;    margin-left: -20px;    left: 50%;    z-index: 10; background: url(./static/images/v_map.png) 0 0 no-repeat;}
+.v_iWatched {    width: 40px;    height: 18px;    overflow: hidden;    position: absolute;    top: -8px;    margin-left: -20px;    left: 50%;    z-index: 10; background: url(.../images/v_map.png) 0 0 no-repeat;}
 .detail-list-3-info-right{position: absolute;right: 10px;top: 10px;height: 18px;}
